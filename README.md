@@ -1,5 +1,5 @@
 # leavingearth
-
+A Vue based web app, also uses Jest for testing.
 ## Project setup
 ```
 npm install
